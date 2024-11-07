@@ -57,3 +57,12 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
+**ScreenShots**
+![HomePage](public/screenshots/HomePage.png)
+![NavBar](public/screenshots/NavBar.png)
+![Footer](public/screenshots/Footer.png)
+![Camp Reviews](public/screenshots/CampReviews.png)
+![Camp Info](public/screenshots/CampInfo.png)
+![Camp Guide](<public/screenshots/Camp Guide.png>)
+![App Features](<public/screenshots/App Features.png>)
+![Download App](public/screenshots/DownloadApp.png)
